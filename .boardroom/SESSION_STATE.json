@@ -1,0 +1,21 @@
+{
+  "mission": "PROJECT BOARDROOM V3.0",
+  "active_system": "claude",
+  "mode": "EXPRESS",
+  "phase": "SHIP",
+  "project": {
+    "brand": "Peak_Coaching",
+    "github_url": "https://github.com/MohammedHdid/First_Agent_Work.git",
+    "niche": "Coaching",
+    "contract_version": "BRIEF v1.0"
+  },
+  "status": {
+    "architect": "SHIP_READY",
+    "frontend": "COMPLETE",
+    "backend": "N/A",
+    "qa": "SELF_CHECKED"
+  },
+  "last_updated": "2026-03-30T23:00:00+01:00",
+  "boardroom_version": "3.0",
+  "_note": "Set active_system to 'claude' when switching to Claude Code. Both systems read this file to know where to resume."
+}
